@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: EPL-2.0
 #
 
-chePluginRegistryImage: eclipse/che-plugin-registry
+chePluginRegistryImage: aduke/che-plugin-registry
 chePluginRegistryImagePullPolicy: Always
 chePluginRegistryMemoryLimit: 256Mi
 #chePluginRegistryIngressSecretName: che-tls
