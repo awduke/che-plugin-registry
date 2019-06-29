@@ -1,6 +1,6 @@
 apiVersion: v2
 publisher: ms-kubernetes-tools
-name: vscode-kubernetes-tools
+name: vscode-k8s-tools
 version: 1.0.0
 type: VS Code extension
 displayName: Kubernetes
