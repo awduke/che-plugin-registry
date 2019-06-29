@@ -15,4 +15,4 @@ spec:
     - image: "eclipse/che-remote-plugin-kubernetes-tooling-1.0.0:next"
       name: "vscode-k8s-tools"
   extensions:
-    - https://github.com/Azure/vscode-kubernetes-tools/releases/download/1.0.0/vscode-kubernetes-tools-1.0.0.vsix
+    - https://github.com/Azure/vscode-kubernetes-tools/releases/download/1.0.1/vscode-kubernetes-tools-1.0.1.vsix
