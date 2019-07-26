@@ -9,7 +9,7 @@
 
 chePluginRegistryImage: aduke/che-plugin-registry
 chePluginRegistryImagePullPolicy: Always
-chePluginRegistryMemoryLimit: 256Mi
+chePluginRegistryMemoryLimit: 512Mi
 #chePluginRegistryIngressSecretName: che-tls
 
 global:
